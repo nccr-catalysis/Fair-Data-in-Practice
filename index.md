@@ -1,4 +1,5 @@
 ## Useful resources
+* **[Fair Data in Practice](https://polybox.ethz.ch/index.php/s/6djDnQ74EwCpKZz):** the slides for the so-named talk at the 2026 Annual Event
 * **[About page](https://zenodo.org/communities/nccr-catalysis/about)** and **[Curation Policy](https://zenodo.org/communities/nccr-catalysis/curation-policy)** for NCCR Catalysis's Zenodo Community.
 * **[FAIR Principles](https://www.go-fair.org/fair-principles/):** the official principle for the go-fair initiative.
 * **Examples of bad practices(mock data)**:
