@@ -1,7 +1,8 @@
 ## Useful resources
-* **[Fair Data in Practice](https://polybox.ethz.ch/index.php/s/6djDnQ74EwCpKZz):** the slides for the so-named talk at the 2026 Annual Event
+* **[Fair Data in Practice](https://polybox.ethz.ch/index.php/s/ia3TCrP8ZngqETb):** the files and slides for the so-named talk at the 2026 Annual Event
 * **[About page](https://zenodo.org/communities/nccr-catalysis/about)** and **[Curation Policy](https://zenodo.org/communities/nccr-catalysis/curation-policy)** for NCCR Catalysis's Zenodo Community.
 * **[FAIR Principles](https://www.go-fair.org/fair-principles/):** the official principle for the go-fair initiative.
+* **[Bug leads to article's conclusions](https://doi.org/10.48550/arXiv.2402.14583):** the conclusion of an article turned out to be due to a bug in the Python module Seaborn, used for plotting.
 * **Examples of bad practices(mock data)**:
     * **[Zenodo (sandbox)](https://sandbox.zenodo.org/records/509508):** an example of findable but not accessible
     * **[Google Drive](https://drive.google.com/drive/folders/1jJR7PBpzJg7r9e5xS8tuGWw-k2T61giP?usp=sharing):** and example of accessible but not findable
